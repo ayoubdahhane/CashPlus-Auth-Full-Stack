@@ -3,8 +3,6 @@
 ## 📌 Overview
 CashPlus-Auth-Full-Stack is a **secure authentication system** built using **Java EE (JEE) for the backend** and **JSP, HTML, CSS, and JavaScript for the frontend**. It provides essential authentication features such as **sign-in, sign-up, email confirmation, and password recovery via email**.
 
-⚠️ **This project is for educational purposes only** and is not intended for commercial use unless authorized by **Cash Plus**.
-
 ## 🚀 Features
 - ✅ **User Authentication**: Secure login and registration with form validation.
 - ✅ **Email Confirmation**: Users must verify their email before accessing their account.
